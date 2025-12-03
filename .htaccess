@@ -1,0 +1,4 @@
+Options -Indexes
+RewriteEngine On
+RewriteRule ^$ home.php [L]
+DirectoryIndex home.php
